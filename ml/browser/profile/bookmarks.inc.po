@@ -43,7 +43,7 @@ msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍ക്ക
 msgid ""
 "Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar"
 msgstr ""
-"ഓര്‍മ്മക്കറിപ്പുകളുടെ ടൂള്‍ബാറില്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിനായി ഈ ഫോള്‍ഡര്‍ ഓര്‍മ്മക്കുറിപ്പുകളായി ചേര്‍ക്കുക"
+"ഓര്‍മ്മക്കറിപ്പുകളുടെ ടൂള്‍ബാറില്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിനായി ഈ ഫോള്‍ഡറിൽ ഓര്‍മ്മക്കുറിപ്പുകൾ ചേര്‍ക്കുക"
 
 #. # LOCALIZATION NOTE (getting_started):
 #. # link title for https://www.mozilla.org/en-US/firefox/central/
